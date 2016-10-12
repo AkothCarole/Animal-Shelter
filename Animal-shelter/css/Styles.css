@@ -1,0 +1,98 @@
+  body {
+    background-color:#CBBB9B;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+  }
+#Wrapper {
+  width: 960px;
+  height: auto;
+  background-color: cream;
+  border-left: 5px solid #A09885;
+  border-right: 5px solid #A09885;
+  overflow: auto;
+  margin: auto;
+  padding:  10px;
+
+}
+#Header {
+  width: 100%;
+  height: 100px;
+  border-bottom: 3px solid #7C7063;
+}
+#Logo{
+  float: left;
+  margin: 15px 30px 0px 80px;
+
+}
+#StayinTouch {
+  float: right;
+  margin: 20px 30px 0px 0px
+}
+#StayinTouch ul li {
+  float: left;
+  list-style: none;
+  padding-right: 5px;
+
+}
+#StayinTouch img {
+  height:55px;
+  width: 55px;
+}
+#Sidebar {
+float: left;
+width: 275px;
+height: 100%;
+
+}
+#Menu ul{
+float: left;
+height: auto;
+width: 200px;
+}
+#Menu ul li{
+list-style: none;
+padding: 5px;
+text-align: center;
+}
+#Menu ul li a{
+background: #CBBB9B;
+color: #4E4F3E;
+text-decoration: none;
+padding: 10px 0px;
+display: block;
+
+}
+#Menu ul li a:hover {
+color: #fff;
+}
+#Content {
+float:left;
+width: 655px;
+height: relative;
+height: auto;
+letter-spacing: 1;
+color: #57574C;
+border-left: 3px solid #7C7063
+}
+#h1{
+text-align: center;
+padding: 5px;
+border-bottom: 1px solid #7C7063;
+
+}
+#p{
+text-indent: 50 px;
+line-height: 25px;
+}
+#img {
+float: right;
+padding: 0px 0px 5px 5px;
+}
+.top {
+color: #4E4F3E;
+text-decoration: none;
+}
+iframe {
+margin-left: 30px;
+}
